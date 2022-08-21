@@ -32,3 +32,5 @@ public class SearchTest extends CoreTestCase {
         expectedResult.click();
     }
 }
+
+
